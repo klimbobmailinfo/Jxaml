@@ -32,15 +32,10 @@ public class Main extends Application {
 	   
 	@Override
 	public void start(Stage primaryStage) {
+		int iiii = 2;
 		try {
 			/*
-		      Parent root = FXMLLoader.load(getClass().getResource("/Mample.fxml"));
-		        Scene scene = new Scene(root, 100, 175);
-	        
-		        primaryStage.setTitle("FXML Welcome");
-		        primaryStage.setScene(scene);
-		        primaryStage.sizeToScene();
-		        primaryStage.show();
+WENT THROUGH GIT v2.0 !
 		        
 		        */
 		   	File file1 = new File("c:\\temp\\rifle.jpg");
